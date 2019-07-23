@@ -1,3 +1,3 @@
 # UnixSockets
 
-Server(Sunucu) ile Client(İstemci) arasındaki iletişimin "end" komutu girilene kadar devam etmesi.
+Server(Sunucu) ile Client(İstemci) arasındaki iletişimin sürekli olması.("end" komutu girilene kadar)
